@@ -1,0 +1,7 @@
+E:\Google Drive\Proyects\SueldoyAntiguedad\bin\Debug\SueldoyAntiguedad.exe.config
+E:\Google Drive\Proyects\SueldoyAntiguedad\bin\Debug\SueldoyAntiguedad.exe
+E:\Google Drive\Proyects\SueldoyAntiguedad\bin\Debug\SueldoyAntiguedad.pdb
+E:\Google Drive\Proyects\SueldoyAntiguedad\obj\Debug\SueldoyAntiguedad.csprojAssemblyReference.cache
+E:\Google Drive\Proyects\SueldoyAntiguedad\obj\Debug\SueldoyAntiguedad.csproj.CoreCompileInputs.cache
+E:\Google Drive\Proyects\SueldoyAntiguedad\obj\Debug\SueldoyAntiguedad.exe
+E:\Google Drive\Proyects\SueldoyAntiguedad\obj\Debug\SueldoyAntiguedad.pdb
